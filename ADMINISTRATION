@@ -1,0 +1,41 @@
+{
+  "source": "GIKI Website",
+  "data": [
+    {
+      "section": "Administration Overview",
+      "title": "Administrative Structure",
+      "content": "The Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI) maintains a comprehensive administrative framework to support its academic and operational functions. The administration encompasses various departments, each dedicated to specific aspects of the institute's operations, ensuring a cohesive and efficient environment for students, faculty, and staff. :contentReference[oaicite:0]{index=0}",
+      "url": "https://giki.edu.pk/administration/"
+    },
+    {
+      "section": "Departments and Functions",
+      "title": "Key Administrative Departments",
+      "content": "- **Marketing**: Manages the institute's public relations, branding, and outreach initiatives to enhance visibility and engagement.\n- **Finance**: Oversees budgeting, financial planning, and resource allocation to ensure fiscal responsibility and sustainability.\n- **Procurement**: Handles the acquisition of goods and services necessary for the institute's operations, maintaining transparency and efficiency.\n- **Information Technology (IT)**: Provides technological support, infrastructure maintenance, and cybersecurity measures to facilitate academic and administrative activities.\n- **Facilitation**: Coordinates logistical aspects, including event management and campus services, to support the institute's functions.\n- **Human Resources (HR)**: Manages recruitment, employee relations, and professional development programs for faculty and staff.\n- **Medical**: Ensures the health and well-being of the campus community through medical services and health awareness programs.\n- **Security**: Maintains a safe and secure campus environment through vigilant security measures and protocols.\n- **Protocol**: Oversees official ceremonies, visits, and events, ensuring adherence to institutional protocols and decorum.",
+      "url": "https://giki.edu.pk/administration/"
+    },
+    {
+      "section": "Key Personnel",
+      "title": "Administrative Leadership",
+      "content": "- **Deputy Director (HR)**: Khushal Sardar\n- **Pro-Rector (Academics)**: Prof. Dr. Wasim Ahmed Khan\n- **Coordinators Open House & Careers Fair**: Officers Incharge of the Career Office, responsible for liaising with national and multinational companies to secure job opportunities, internships, and event sponsorships. :contentReference[oaicite:1]{index=1}",
+      "url": "https://giki.edu.pk/administration/"
+    },
+    {
+      "section": "Career Office",
+      "title": "Student Career Support",
+      "content": "The Career Office, under the supervision of the Pro-Rector (Academics), serves as a bridge between students and potential employers. It offers services such as career advising, information on various companies, assistance in CV preparation, and facilitation of internships. :contentReference[oaicite:2]{index=2}",
+      "url": "https://giki.edu.pk/administration/career-office/"
+    },
+    {
+      "section": "Student Affairs",
+      "title": "Student Support Services",
+      "content": "The Student Affairs Office acts as a liaison between students, faculty, and administration. It provides assistance in student counseling, hostel residence, student societies, and discipline, aiming to enhance the quality of student life both inside and outside the classroom. :contentReference[oaicite:3]{index=3}",
+      "url": "https://giki.edu.pk/academics/student-affairs/"
+    },
+    {
+      "section": "Contact Information",
+      "title": "Administrative Contact Details",
+      "content": "For inquiries related to administration and finance departments, contact:\n- **Address**: GIK Institute of Engineering Sciences and Technology, Topi 23460, Khyber Pakhtunkhwa, Pakistan.\n- **Phone**: (0938) 281026\n- **Fax**: (098) 281032",
+      "url": "https://giki.edu.pk/contact-us/"
+    }
+  ]
+}
