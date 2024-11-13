@@ -1,0 +1,35 @@
+{
+  "source": "GIKI Website",
+  "data": [
+    {
+      "section": "Career Opportunities",
+      "title": "Join GIK Institute",
+      "content": "The Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI) offers various career opportunities for qualified individuals. The institute regularly updates its career portal with job openings across different departments and faculties.",
+      "url": "https://giki.edu.pk/careers/"
+    },
+    {
+      "section": "Recent Job Postings",
+      "title": "Current Openings",
+      "content": "As of October 30, 2024, GIKI has announced job opportunities for positions such as Professor, Associate Professor, Assistant Professor, Lecturer, and Lab Engineer in fields including Artificial Intelligence, Data Science, Cyber Security, and Software Engineering. :contentReference[oaicite:0]{index=0}",
+      "url": "https://giki.edu.pk/2024/10/30/job-opportunities-23/"
+    },
+    {
+      "section": "Application Process",
+      "title": "How to Apply",
+      "content": "Interested candidates are encouraged to apply online through the GIKI careers portal. Applications should include a detailed CV, copies of academic credentials, and any other relevant documents. Incomplete applications will not be entertained. :contentReference[oaicite:1]{index=1}",
+      "url": "https://giki.edu.pk/careers/"
+    },
+    {
+      "section": "Selection Procedure",
+      "title": "Interview Process",
+      "content": "Only shortlisted applicants will be called for an interview. No TA/DA will be paid for the interviews. The selected candidates will become part of one of the Centers of Excellence in the country in the field of engineering sciences, technology, and management. :contentReference[oaicite:2]{index=2}",
+      "url": "https://giki.edu.pk/careers/"
+    },
+    {
+      "section": "Contact Information",
+      "title": "HR Department",
+      "content": "For further inquiries, candidates can contact the HR department at GIK Institute, Topi-23640, Swabi, Khyber Pakhtunkhwa. Phone: 0938-281026 Ext: 2442. :contentReference[oaicite:3]{index=3}",
+      "url": "https://giki.edu.pk/careers/"
+    }
+  ]
+}
