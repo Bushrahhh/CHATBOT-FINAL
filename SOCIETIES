@@ -1,0 +1,131 @@
+{
+  "source": "GIKI Website",
+  "data": [
+    {
+      "section": "Student Societies",
+      "title": "Overview",
+      "content": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI) offers a vibrant campus life enriched by various student societies. These societies provide platforms for students to engage in extracurricular activities, develop leadership skills, and pursue interests beyond academics.",
+      "url": "https://giki.edu.pk/campus-life/student-socities/"
+    },
+    {
+      "section": "Technical Societies",
+      "title": "Professional Development",
+      "content": "GIKI hosts several technical societies affiliated with international organizations, aiming to advance students' knowledge and skills in specific engineering and scientific fields.",
+      "subsections": [
+        {
+          "title": "ACM – Association for Computing Machinery",
+          "content": "The ACM student chapter at GIKI is involved in activities ranging from arranging student workshops, special courses, and introductory seminars to holding software and computer game competitions."
+        },
+        {
+          "title": "AIAA – American Institute of Aeronautics and Astronautics",
+          "content": "Formerly known as the GIK Aerotech Club, AIAA provides a platform for aerospace enthusiasts, conducting various events, seminars, and workshops each semester. The society also maintains a fleet of radio-controlled aircraft for technical and recreational purposes."
+        },
+        {
+          "title": "ASHRAE – American Society of Heating, Refrigerating and Air Conditioning Engineers",
+          "content": "The GIKI chapter of ASHRAE organizes conferences, workshops, and seminars on careers in HVAC, aiming to attract students to the field by exposing them to industry opportunities."
+        },
+        {
+          "title": "ASME – American Society of Mechanical Engineers",
+          "content": "GIKI's ASME student chapter focuses on the professional development of students, equipping them to meet modern engineering challenges. Members receive monthly magazines and newsletters published by ASME International."
+        },
+        {
+          "title": "ASM/TMS – American Society for Materials/The Minerals, Metals & Materials Society",
+          "content": "The ASM/TMS society at GIKI is a student-run organization registered with the international forum of materials engineering, promoting advancements in the field."
+        }
+      ],
+      "url": "https://giki.edu.pk/campus-life/student-socities/"
+    },
+    {
+      "section": "Cultural and Arts Societies",
+      "title": "Promoting Arts and Culture",
+      "content": "These societies aim to foster cultural awareness and artistic expression among students.",
+      "subsections": [
+        {
+          "title": "CDES – Cultural, Dramatic & Entertainment Society",
+          "content": "As one of the oldest and most prestigious student societies at GIKI, CDES provides a platform for youth to discover and utilize their talents in practical life, promoting cultures, bridging social and ethnic gaps, and creating awareness about intricate issues."
+        },
+        {
+          "title": "Naqsh – Art Society",
+          "content": "Naqsh Art Society has been promoting both fine and performing arts for over a decade, hosting events like Color Festival, Mimes, Art Night, and the All Pakistan Arts & Fashion Festival, providing a platform for art lovers to pursue their passions."
+        }
+      ],
+      "url": "https://giki.edu.pk/campus-life/student-socities/"
+    },
+    {
+      "section": "Literary and Debating Societies",
+      "title": "Enhancing Communication Skills",
+      "content": "These societies focus on developing students' literary talents and public speaking abilities.",
+      "subsections": [
+        {
+          "title": "LDS – Literary and Debating Society",
+          "content": "LDS organizes events such as the All-Pakistan British Parliamentary Debating Tournament, providing a platform for students to engage in intellectual discourse and enhance their debating skills."
+        }
+      ],
+      "url": "https://giki.edu.pk/campus-life/student-socities/"
+    },
+    {
+      "section": "Sports and Adventure Societies",
+      "title": "Promoting Physical Activities",
+      "content": "These societies encourage students to participate in sports and adventure activities, promoting a healthy lifestyle.",
+      "subsections": [
+        {
+          "title": "GSS – GIK Sports Society",
+          "content": "GSS organizes various sports events and maintains teams for cricket, hockey, badminton, and other sports, fostering a spirit of teamwork and competition among students."
+        },
+        {
+          "title": "Adventure Club",
+          "content": "The Adventure Club offers activities like sailing, hiking, and adventure trips, providing students with opportunities to explore and appreciate nature."
+        }
+      ],
+      "url": "https://giki.edu.pk/campus-life/student-socities/"
+    },
+    {
+      "section": "Science and Technology Societies",
+      "title": "Fostering Scientific Inquiry",
+      "content": "These societies aim to promote scientific knowledge and innovation among students.",
+      "subsections": [
+        {
+          "title": "Science Society",
+          "content": "The Science Society organizes events like Science Day, encouraging students to engage in scientific exploration and research beyond the formal curriculum."
+        },
+        {
+          "title": "SPIE – Society for Photo-optical Instrumentation Engineers",
+          "content": "SPIE focuses on the advancement of light-based technologies, providing a platform for students interested in optics and photonics."
+        }
+      ],
+      "url": "https://giki.edu.pk/campus-life/student-socities/"
+    },
+    {
+      "section": "Media and Publication Societies",
+      "title": "Encouraging Creative Expression",
+      "content": "These societies provide platforms for students to express their creativity through various media.",
+      "subsections": [
+        {
+          "title": "Media Club",
+          "content": "The Media Club engages in activities like movie making, photography, desktop publishing, and event coverage, allowing students to explore and develop their media skills."
+        },
+        {
+          "title": "Horizon – GIK Student Publication Society",
+          "content": "Horizon publishes the annual Horizon Magazine, providing students with an outlet for literary and journalistic expression."
+        }
+      ],
+      "url": "https://giki.edu.pk/campus-life/student-socities/"
+    },
+    {
+      "section": "Environmental and Social Societies",
+      "title": "Promoting Social Responsibility",
+      "content": "These societies focus on environmental awareness and social causes.",
+      "subsections": [
+        {
+          "title": "GEAS – GIKI Environment and Sustainability Society",
+          "content": "GEAS works to raise awareness about environmental issues and sustainability practices through initiatives and workshops."
+        },
+        {
+          "title": "Community Service Society (CSS)",
+          "content": "CSS focuses on community outreach and social welfare projects, encouraging students to give back to society through volunteer work."
+        }
+      ],
+      "url": "https://giki.edu.pk/campus-life/student-socities/"
+    }
+  ]
+}
