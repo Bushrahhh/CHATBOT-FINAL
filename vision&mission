@@ -1,0 +1,17 @@
+{
+  "source": "GIKI Website",
+  "data": [
+    {
+      "section": "Vision",
+      "title": "GIKI Vision",
+      "content": "GIKI aims to be a leading institution in the field of engineering, sciences, and technology education with a focus on excellence and innovation...",
+      "url": "https://giki.edu.pk/vision-and-mission/"
+    },
+    {
+      "section": "Mission",
+      "title": "GIKI Mission",
+      "content": "GIKI’s mission is to educate and train individuals to contribute to society through cutting-edge technological knowledge, leadership, and ethical practices...",
+      "url": "https://giki.edu.pk/vision-and-mission/"
+    }
+  ]
+}
