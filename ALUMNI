@@ -1,0 +1,65 @@
+{
+  "source": "GIKI Alumni Association Website",
+  "data": [
+    {
+      "section": "Overview",
+      "title": "GIKI Alumni Association",
+      "content": "The Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI) Alumni Association is an independent, worldwide organization dedicated to fostering lifelong relationships among current and future GIKI alumni and the university. :contentReference[oaicite:0]{index=0}",
+      "url": "https://gikialumni.org/"
+    },
+    {
+      "section": "Mission and Vision",
+      "title": "Core Objectives",
+      "content": "The association aims to mobilize and energize the GIKI alumni network to create value for both the institute and its alumni. Core values include promoting an active and value-generating network, encouraging volunteerism and generosity, and upholding high ethical and professional standards. :contentReference[oaicite:1]{index=1}",
+      "url": "https://gikialumni.org/vision-and-mission/"
+    },
+    {
+      "section": "Leadership",
+      "title": "Executive Council",
+      "content": "The association is led by an Executive Council comprising dedicated alumni committed to serving the GIKI community. The current president, Barrister (Engr.) Habil Ahmed Khan, emphasizes the importance of giving back to GIKI and its alumni, reflecting on his formative years at the institute. :contentReference[oaicite:2]{index=2}",
+      "url": "https://gikialumni.org/executive-council/"
+    },
+    {
+      "section": "Global Presence",
+      "title": "Alumni Network",
+      "content": "With over 6,100 members spanning 26 batches across more than 70 countries, the GIKI Alumni Association boasts a vibrant and diverse community. Alumni are encouraged to join regional, departmental, or association-wide groups to foster connections and collaborations. :contentReference[oaicite:3]{index=3}",
+      "url": "https://gikialumni.org/discover/"
+    },
+    {
+      "section": "Giving Back",
+      "title": "Financial Assistance Programs",
+      "content": "The association offers various programs to support current students, including financial assistance, batch seat scholarships, and an endowment fund. These initiatives aim to provide deserving students with the opportunity to pursue quality education at GIKI. :contentReference[oaicite:4]{index=4}",
+      "url": "https://gikialumni.org/scholarships/"
+    },
+    {
+      "section": "Activities and Programs",
+      "title": "Engagement Initiatives",
+      "content": "The association organizes a range of activities and programs, including annual reports, vision and mission goal setting, and adherence to the GIKIAA Article of Association. These efforts are designed to keep alumni engaged and informed about the association's objectives and progress. :contentReference[oaicite:5]{index=5}",
+      "url": "https://gikialumni.org/activities-programs/"
+    },
+    {
+      "section": "Events",
+      "title": "Alumni Reunions",
+      "content": "The association hosts annual reunions, such as the 2022 event attended by over 400 alumni, including more than 150 CEOs, founders, directors, and managers of prominent tech companies worldwide. These gatherings celebrate the achievements and global impact of GIKI's talented alumni. :contentReference[oaicite:6]{index=6}",
+      "url": "https://gikialumni.org/gikreunion2022/"
+    },
+    {
+      "section": "Communication",
+      "title": "Stay Connected",
+      "content": "Alumni can stay updated through monthly newsletters containing global alumni updates. The association also maintains an active presence on social media platforms, including Facebook, LinkedIn, and YouTube, to facilitate communication and engagement. :contentReference[oaicite:7]{index=7}",
+      "url": "https://gikialumni.org/"
+    },
+    {
+      "section": "Merchandise",
+      "title": "GIKIAA Shop",
+      "content": "The association offers a range of merchandise through the GIKIAA Shop, allowing alumni to showcase their pride and support for the institute. Proceeds from merchandise sales contribute to various alumni initiatives and programs. :contentReference[oaicite:8]{index=8}",
+      "url": "https://gikialumni.org/"
+    },
+    {
+      "section": "Contact Information",
+      "title": "Get in Touch",
+      "content": "Alumni and interested parties can contact the association via the hotline at (+92) 311 044 – 5422 or through social media channels. The association encourages feedback and suggestions to better serve the GIKI community. :contentReference[oaicite:9]{index=9}",
+      "url": "https://gikialumni.org/"
+    }
+  ]
+}
