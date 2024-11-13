@@ -1,0 +1,29 @@
+{
+  "source": "GIKI Website",
+  "data": [
+    {
+      "section": "Information Technology Department",
+      "title": "Overview",
+      "content": "The Information Technology (IT) Department at Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI) is dedicated to providing comprehensive technological resources to support the institute's vision of delivering high-quality education and fostering an excellent teaching and research environment.",
+      "url": "https://giki.edu.pk/it/"
+    },
+    {
+      "section": "Services Offered",
+      "title": "IT Infrastructure and Support",
+      "content": "The IT Department offers a range of services to facilitate teaching, learning, and research:\n- **Data Center**: GIKI maintains its own IT infrastructure through an on-campus Data Center, providing essential IT facilities to faculty, staff, students, and residents.\n- **Round-the-Clock Connectivity**: Ensures continuous access to digital resources and computing services across the fully residential campus.\n- **Digital Resources**: Provides access to various digital tools and platforms to enhance the educational experience.",
+      "url": "https://giki.edu.pk/it/"
+    },
+    {
+      "section": "IT Training Center",
+      "title": "Skill Development Initiatives",
+      "content": "In collaboration with the Ministry of Federal Education and Professional Training and the National Vocational and Technical Training Commission (NAVTTC), GIKI has established an IT Training Center in Islamabad. This initiative, part of the Prime Minister's High Impact Technology Initiative, aims to offer IT courses to unemployed youth, enhancing their employability and technical skills.",
+      "url": "https://giki.edu.pk/2024/08/08/it-training-centre/"
+    },
+    {
+      "section": "Contact Information",
+      "title": "Reach Out to IT Support",
+      "content": "For assistance or inquiries related to IT services, please contact the IT Department through the following channels:\n- **IT Helpdesk**: [gikhelpdesk.atlassian.net](https://gikhelpdesk.atlassian.net)\n- **Phone**: +92 (0)938 281026 Ext: 2010, 2110",
+      "url": "https://giki.edu.pk/it/"
+    }
+  ]
+}
