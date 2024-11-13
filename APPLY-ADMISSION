@@ -1,0 +1,53 @@
+{
+  "source": "GIKI Website",
+  "data": [
+    {
+      "section": "How to Apply",
+      "title": "Overview of Application Process",
+      "content": "The Ghulam Ishaq Khan Institute (GIKI) provides a structured process for students applying for both undergraduate and graduate programs. Applicants need to submit their information via the online admissions portal, ensuring accuracy and completeness in their details.",
+      "url": "https://giki.edu.pk/how-to-apply"
+    },
+    {
+      "section": "Undergraduate Admissions",
+      "title": "Application Steps",
+      "content": "Prospective undergraduate students must create an account on the [GIKI Admissions Portal](https://admissions.giki.edu.pk/). The application form should be completed with personal and academic details, and a recent color photograph must be uploaded. A non-refundable processing fee of Rs. 3,000 for a single test or Rs. 4,500 for both tests must be paid at any HBL branch. Additional Rs. 1,000 applies if applying for financial assistance. The admit card for the admission test can be downloaded from the portal.",
+      "url": "https://giki.edu.pk/how-to-apply"
+    },
+    {
+      "section": "Graduate Admissions",
+      "title": "Graduate Application Details",
+      "content": "Graduate applicants must submit detailed academic and professional records through the online admissions form, which requires attested copies of all previous degrees and transcripts, a CNIC, and a statement of purpose. PhD applicants must also provide a research proposal. The application fee of Rs. 5,000 is payable at any HBL branch.",
+      "url": "https://giki.edu.pk/how-to-apply"
+    },
+    {
+      "section": "Admission Test Requirements",
+      "title": "Test and Examination Details",
+      "content": "Undergraduate students must take the GIKI Admission Test, which includes MCQs in Physics, Mathematics, and English. Graduate applicants must pass the GIKI Admission Test, ETS GRE (General), or HEC-ETC HAT Test. Shortlisted graduate candidates will participate in an online interview.",
+      "url": "https://giki.edu.pk/how-to-apply"
+    },
+    {
+      "section": "Payment Procedures",
+      "title": "Fee Payment Methods",
+      "content": "Payments can be made via printed bank challan at HBL branches or through online options like HBL Mobile App or 1-Bill Top-Up from various banking channels. Applicants must enter paid challan details in their profile for verification.",
+      "url": "https://giki.edu.pk/how-to-apply"
+    },
+    {
+      "section": "Required Documentation",
+      "title": "Supporting Documents",
+      "content": "Applicants need to provide attested copies of academic certificates, CNIC, domicile, and recommendation letters. Graduate applicants must submit a statement of purpose, while PhD candidates must include a research proposal.",
+      "url": "https://giki.edu.pk/how-to-apply"
+    },
+    {
+      "section": "Important Notes",
+      "title": "Guidelines and Reminders",
+      "content": "Ensure all submitted information is accurate. Retain copies of documents and payment receipts for records. Regularly check email and the portal for updates.",
+      "url": "https://giki.edu.pk/how-to-apply"
+    },
+    {
+      "section": "Admission Test Details",
+      "title": "Admit Card and Test Day Requirements",
+      "content": "Applicants must download the Admit Card and bring it, along with the original Matric/O-Level Certificate and the paid bank challan (GIKI copy), to the test venue. Graduate applicants must prepare for their interview, conducted via Zoom or Skype.",
+      "url": "https://giki.edu.pk/how-to-apply"
+    }
+  ]
+}
