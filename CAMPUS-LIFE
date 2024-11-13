@@ -1,0 +1,41 @@
+{
+  "source": "GIKI Website",
+  "data": [
+    {
+      "section": "Campus Overview",
+      "title": "Campus Life at GIKI",
+      "content": "The Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI) offers a vibrant campus life that balances academic rigor with extracurricular engagement. The institute provides state-of-the-art facilities, diverse student societies, and comprehensive support services to foster personal and professional growth.",
+      "url": "https://giki.edu.pk/campus-life/"
+    },
+    {
+      "section": "Buildings and Facilities",
+      "title": "Infrastructure and Amenities",
+      "content": "GIKI's campus features modern buildings designed to support various academic and extracurricular activities:\n- **Auditorium**: A central auditorium with a seating capacity of 535, hosting conferences, seminars, and cultural events. :contentReference[oaicite:0]{index=0}\n- **Administration Block**: Houses offices of the Rector, Pro-Rector (Academic), Dean (Student Affairs), and other administrative departments. :contentReference[oaicite:1]{index=1}\n- **Sports Complex**: Includes facilities for indoor and outdoor sports, such as badminton, squash, tennis, basketball, volleyball, football, cricket, a swimming pool, and a gymnasium. :contentReference[oaicite:2]{index=2}",
+      "url": "https://giki.edu.pk/campus-life/buildings/"
+    },
+    {
+      "section": "Student Societies",
+      "title": "Extracurricular Engagement",
+      "content": "GIKI hosts a variety of student societies that cater to diverse interests:\n- **Cultural Dramatics & Entertainment Society (CDES)**: Organizes musical concerts, drama competitions, and cultural trips. :contentReference[oaicite:3]{index=3}\n- **American Society of Mechanical Engineers (ASME) GIK Chapter**: Focuses on the professional development of mechanical engineering students. :contentReference[oaicite:4]{index=4}\n- **GIK Sports Society (GSS)**: Promotes physical fitness and organizes various sports events for both male and female students. :contentReference[oaicite:5]{index=5}",
+      "url": "https://giki.edu.pk/campus-life/student-socities/"
+    },
+    {
+      "section": "Sports and Recreation",
+      "title": "Athletic Opportunities",
+      "content": "GIKI encourages students to participate in sports through well-maintained facilities and organized leagues:\n- **Sports Leagues**: Structured leagues for cricket and football, with matches often held at night under floodlights to accommodate academic schedules. :contentReference[oaicite:6]{index=6}\n- **Facilities**: Courts and grounds for various sports, including tennis, basketball, volleyball, football, cricket, badminton, squash, a swimming pool, and a gymnasium. :contentReference[oaicite:7]{index=7}",
+      "url": "https://giki.edu.pk/campus-life/sports/"
+    },
+    {
+      "section": "Student Affairs",
+      "title": "Support Services",
+      "content": "The Student Affairs Office enhances the quality of student life by providing support in academic, personal, and emotional matters. Services include counseling, guidance, and assistance with hostel residence and student societies. :contentReference[oaicite:8]{index=8}",
+      "url": "https://giki.edu.pk/academics/student-affairs/"
+    },
+    {
+      "section": "Transportation",
+      "title": "Campus Accessibility",
+      "content": "GIKI offers transportation services for students and employees, including shuttle services to and from Peshawar and Islamabad on weekends. Parking is available 24 hours with round-the-clock security. :contentReference[oaicite:9]{index=9}",
+      "url": "https://giki.edu.pk/campus-life/"
+    }
+  ]
+}
